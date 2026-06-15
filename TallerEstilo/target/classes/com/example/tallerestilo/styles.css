@@ -1,0 +1,48 @@
+.contenedor{
+-fx-background-color: #DACBF5;
+}
+
+.lbl {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+}
+.lbl1 {
+    -fx-font-size: 18px;
+    -fx-font-weight: bold;
+}
+
+.boton:hover{
+-fx-background-color: #EBE3D1;
+-fx-text-fill: black;
+}
+.boton{
+-fx-background-color: #F5DBD3;
+-fx-text-fill: black;
+}
+
+.boton1{
+-fx-background-color: F5CBE7;
+-fx-text-fill: black;
+}
+
+.boton1:hover{
+-fx-background-color: #EBE3D1;
+-fx-text-fill: black;
+}
+.boton2{
+-fx-background-color: #CCEBEB;
+-fx-text-fill: black;
+}
+
+.boton2:hover{
+-fx-background-color: #56D4F5;
+-fx-text-fill: black;
+}
+
+.texto{
+-fx-background-color: white;
+-fx-text-fill: black;
+-fx-background-radius: 10px;
+
+}
+
